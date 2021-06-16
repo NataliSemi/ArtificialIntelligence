@@ -1,4 +1,4 @@
 # ArtificialIntelligence
 
 First Project
-faceDetectionAPp
+faceDetectionApp
