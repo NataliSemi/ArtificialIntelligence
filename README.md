@@ -1,4 +1,4 @@
 # Artificial Intelligence
 
-First Project
+Project
 faceDetectionApp
